@@ -1,0 +1,2 @@
+
+Los Arrays son listas que contienen elementos ordenados de alguna forma, uno al lado del otro. A estos elementos puedo acceder por estar ordenados.
