@@ -1,0 +1,7 @@
+El "for" es un bucle que sirve para hacer tareas repetitivas.
+
+El ”&&” es un operador de lógica booleana también conocido como AND. Este operador trabaja con dos valores booleano (true y false), si dos expresiones son verdaderas, devuelve true; en cambio, si una de las expresiones es falsa, devuelve false.
+
+El “||” es un operador de lógica booleana también conocido como OR. Este operador trabaja con dos valores booleano (true y false), si dos expresiones son falsas, devuelve false; en cambio, si una de las expresiones es verdadera, devuelve true.
+
+El “!” es un operador lógico que establece una negación lógica a una expresión, si una expresión es verdadera (true), el operador las transformará es una expresión falsa (false).
